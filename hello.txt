@@ -1,4 +1,1 @@
-<<<<<<< HEAD
 Deleted the previous data and added new data
-=======
->>>>>>> parent of c2e73a4 (modified java.txt)
